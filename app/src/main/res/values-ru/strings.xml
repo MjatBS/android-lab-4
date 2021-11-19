@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Пользовательские данные</string>
+
+    <string name="edit">Изменить</string>
+    <string name="cancel">Отменить</string>
+    <string name="save">Сохранить</string>
+
+    <string name="full_name">Имя</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="full_address">Адрес</string>
+    <string name="country">Страна</string>
+    <string name="town">Город</string>
+    <string name="address">Адрес</string>
+    <string name="full_comment">Комментарий</string>
+    <string name="comment">Комментарий</string>
+</resources>
